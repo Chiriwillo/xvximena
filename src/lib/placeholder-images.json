@@ -1,0 +1,28 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-background",
+      "description": "Foto principal de Ximena",
+      "imageUrl": "/ximena.jpeg",
+      "imageHint": "quinceanera portrait"
+    },
+    {
+      "id": "gallery-1",
+      "description": "Foto de Ximena",
+      "imageUrl": "/ximena.jpeg",
+      "imageHint": "quinceanera photo"
+    },
+    {
+      "id": "gallery-2",
+      "description": "Foto de Ximena 2",
+      "imageUrl": "/ximena2.jpeg",
+      "imageHint": "quinceanera photo"
+    },
+    {
+      "id": "gallery-3",
+      "description": "Foto de Ximena 3",
+      "imageUrl": "/ximena3.jpeg",
+      "imageHint": "quinceanera photo"
+    }
+  ]
+}
