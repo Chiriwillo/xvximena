@@ -79,7 +79,7 @@ export default function Home() {
 
           <section id="countdown" className="py-16 px-4 bg-secondary/50">
             <div className="container mx-auto text-center">
-              <h2 className="text-4xl font-headline text-primary mb-2">La Gran Celebración</h2>
+              <h2 className="text-4xl font-headline text-primary mb-2">27 de Marzo 2026</h2>
               <p className="text-lg text-muted-foreground mb-8">Falta poco para el gran día...</p>
               <Countdown targetDate={eventDate} />
             </div>
